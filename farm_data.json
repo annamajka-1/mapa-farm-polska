@@ -335,4 +335,16 @@
     "energization_date": null,
     "cod": "May 2026"
   }
+   {
+    "farm": "MEE Siedlce",
+    "municipality": "Siedlce",
+    "latitude": 52.10983,
+    "longitude": 22.40922,
+    "company": "MAGAZYN EE SIEDLCE SP. Z O.O.",
+    "technology": "BESS",
+    "power": "200 MW",
+    "osd": "PSE",
+    "energization_date": null,
+    "cod": "September 2026"
+  }
 ]
